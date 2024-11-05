@@ -1,0 +1,21 @@
+Parcel ID,Sender Name,Receiver Name,Origin City,Destination City,Weight (kg),Dimensions (cm),Shipping Method,Delivery Status,Estimated Delivery Date,Actual Delivery Date,Tracking Updates
+P001,Alice Smith,Bob Johnson,New York,San Francisco,2.5,30 x 20 x 15,Express,Delivered,05/10/2023,04/10/2023,Shipped: 2023-10-01; In transit: 2023-10-02; Out for delivery: 2023-10-04
+P002,Charlie Brown,Dave Martin,Chicago,Los Angeles,5,40 x 30 x 25,Standard,In Transit,10/10/2023,,Shipped: 2023-10-05; In transit: 2023-10-06
+P003,Emma Wilson,Fiona Carter,Seattle,Denver,1.2,25 x 15 x 10,Express,Out for Delivery,07/10/2023,,Shipped: 2023-10-03; In transit: 2023-10-04; Out for delivery: 2023-10-07
+P004,George Lee,Hannah Scott,Boston,Miami,3,35 x 25 x 20,Overnight,Delivered,06/10/2023,06/10/2023,Shipped: 2023-10-05; Out for delivery: 2023-10-06
+P005,Ian Rogers,Julia Green,Austin,Dallas,0.8,20 x 10 x 5,Standard,Pending Pickup,09/10/2023,,Awaiting pickup
+P006,Karen Thomas,Liam Baker,Houston,New Orleans,4.1,45 x 30 x 20,Standard,In Transit,12/10/2023,,Shipped: 2023-10-09; In transit: 2023-10-10
+P007,Laura White,Mia Carter,Phoenix,Orlando,6.5,50 x 35 x 30,Express,Delivered,04/10/2023,03/10/2023,Shipped: 2023-10-01; In transit: 2023-10-02; Delivered: 2023-10-03
+P008,Mike Johnson,Nick Brown,Philadelphia,Portland,2.3,28 x 18 x 12,Standard,Pending Pickup,14/10/2023,,Awaiting pickup
+P009,Nancy Green,Olivia Wright,San Diego,Las Vegas,1,33 x 22 x 17,Overnight,Delivered,03/10/2023,02/10/2023,Shipped: 2023-10-01; In transit: 2023-10-02; Delivered: 2023-10-03
+P010,Oliver Scott,Peter Turner,Dallas,Atlanta,3.2,40 x 25 x 20,Express,Out for Delivery,11/10/2023,,Shipped: 2023-10-09; Out for delivery: 2023-10-11
+P011,Paula Young,Queen Smith,San Jose,Baltimore,0.5,18 x 12 x 8,Standard,In Transit,15/10/2023,,Shipped: 2023-10-12; In transit: 2023-10-13
+P012,Quincy Adams,Ron Thomas,Indianapolis,Tampa,5.4,47 x 32 x 27,Express,Out for Delivery,16/10/2023,,Shipped: 2023-10-13; Out for delivery: 2023-10-16
+P013,Rachel King,Sarah Lewis,San Francisco,Raleigh,3.3,35 x 25 x 22,Overnight,Delivered,02/10/2023,01/10/2023,Shipped: 2023-10-01; In transit: 2023-10-01; Delivered: 2023-10-01
+P014,Steve Brown,Tim Evans,Columbus,Minneapolis,2.7,30 x 20 x 18,Standard,In Transit,18/10/2023,,Shipped: 2023-10-16; In transit: 2023-10-17
+P015,Tina Evans,Ulysses Green,Fort Worth,Cleveland,6,55 x 40 x 30,Express,Pending Pickup,20/10/2023,,Awaiting pickup
+P016,Uma Turner,Victoria Hart,Charlotte,Sacramento,1.9,29 x 19 x 13,Overnight,Delivered,08/10/2023,07/10/2023,Shipped: 2023-10-06; Delivered: 2023-10-07
+P017,Victor Hill,William Scott,Detroit,Kansas City,3.6,37 x 24 x 18,Express,Out for Delivery,09/10/2023,,Shipped: 2023-10-07; Out for delivery: 2023-10-09
+P018,Wendy Morris,Xena Grace,El Paso,Mesa,0.9,20 x 10 x 8,Standard,In Transit,21/10/2023,,Shipped: 2023-10-18; In transit: 2023-10-20
+P019,Xander Rose,Yvonne Kim,Memphis,Virginia Beach,4,43 x 30 x 22,Overnight,Delivered,13/10/2023,13/10/2023,Shipped: 2023-10-10; Delivered: 2023-10-13
+P020,Yara Collins,Zach Brown,Nashville,Milwaukee,1.7,25 x 15 x 10,Standard,Pending Pickup,19/10/2023,,Awaiting pickup
